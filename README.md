@@ -1,48 +1,100 @@
 <h1 align="center">Hi 👋, I'm Aarif</h1>
-<h3 align="center">CSE Student | Aspiring Software Developer 🚀</h3>
 
----
-
-### 🌱 About Me:
-- 🌱 I’m currently learning **DSA & Web Development**
-- 💻 I love building projects and solving problems
-- 🚀 Goal: Become a Software Engineer
-- 📫 Reach me at: your-email@gmail.com
-
----
-
-### 🔗 Connect with me:
-<p align="left">
-<a href="your-linkedin-link" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://github.com/mdaarifhussain6205-debug" target="blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-</p>
-
----
-
-### ⚒️ Languages and Tools:
-<p>
-<img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c" />
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python" />
-</p>
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdaarifhussain6205-debug&show_icons=true&theme=tokyonight" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Aspiring+Software+Developer;DSA+Learner;Web+Developer" />
+</p>
+
+<h3 align="center">💻 CSE Student | 🚀 Future Software Engineer</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mdaarifhussain6205-debug&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak:
+### 🧑‍💻 About Me
+
+* 🌱 Currently learning **DSA & Web Development**
+* 💻 Love building **projects & solving problems**
+* 🎯 Goal: Become a **Software Engineer**
+* 📫 Email: **[mdaarifhussain4084@gmail.com](mailto:mdaarifhussain4084@gmail.com)**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mdaarifhussain6205-debug&theme=tokyonight" />
+
+<a href="https://www.linkedin.com/in/md-aarif-hussain-7145ba37b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/codewithaarif">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="your-instagram-link">
+<img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+### ⚒️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🔹 Project 1: Portfolio Website
+
+* 🌐 Personal portfolio to showcase skills and projects
+* 🛠️ Built using HTML, CSS, JavaScript
+* 🔗 https://github.com/your-username/portfolio
+
+#### 🔹 Project 2: Java Console Application
+
+* 💻 CLI-based app for solving basic problems
+* 🛠️ Built using Java
+* 🔗 https://github.com/your-username/java-project
+
+#### 🔹 Project 3: To-Do List App
+
+* 📝 Task management web app
+* 🛠️ HTML, CSS, JavaScript
+* 🔗 https://github.com/your-username/todo-app
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mdaarifhussain6205-debug&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdaarifhussain6205-debug&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdaarifhussain6205-debug&theme=tokyonight" />
+</p>
+
+### ✨ Quote
+
+<p align="center">
+💬 "Code. Learn. Build. Repeat. 🔁"
 </p>
