@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="your-instagram-link">
+<a href="https://www.instagram.com/md.aarif_786/">
 <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
