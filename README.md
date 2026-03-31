@@ -55,19 +55,19 @@
 
 * 🌐 Personal portfolio to showcase skills and projects
 * 🛠️ Built using HTML, CSS, JavaScript
-* 🔗 https://github.com/your-username/portfolio
+* 🔗 https://github.com/codewithaarif/portfolio
 
 #### 🔹 Project 2: Java Console Application
 
 * 💻 CLI-based app for solving basic problems
 * 🛠️ Built using Java
-* 🔗 https://github.com/your-username/java-project
+* 🔗 https://github.com/codewithaarif/java-project
 
 #### 🔹 Project 3: To-Do List App
 
 * 📝 Task management web app
 * 🛠️ HTML, CSS, JavaScript
-* 🔗 https://github.com/your-username/todo-app
+* 🔗 https://github.com/codewithaarif/todo-app
 
 ---
 
