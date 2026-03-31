@@ -7,7 +7,7 @@
 <h3 align="center">💻 CSE Student | 🚀 Future Software Engineer</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mdaarifhussain6205-debug&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=codewithaarif&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -74,7 +74,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mdaarifhussain6205-debug&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=codewithaarif&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdaarifhussain6205-debug&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaarif&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +90,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdaarifhussain6205-debug&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithaarif&theme=tokyonight" />
 </p>
 
 ### ✨ Quote
