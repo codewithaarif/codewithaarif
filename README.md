@@ -100,7 +100,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&font=Baloo&ext=heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/Aarif6205?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
