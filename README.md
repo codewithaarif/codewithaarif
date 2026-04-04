@@ -29,10 +29,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/codewithaarif">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://www.instagram.com/md.aarif_786/">
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -45,9 +41,6 @@
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
-  <a href="https://x.com/your-username">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -120,13 +113,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-<p align="center">
-  💬 I turn ☕ coffee into 💻 code  
-</p>
-
----
 
 ## ✨ Quote
 
