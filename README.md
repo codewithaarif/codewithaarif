@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aarif</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Aspiring+Software+Developer;DSA+Learner;Web+Developer" />
-</p>
+<h3 align="center">💻 CSE Student | 🚀 Aspiring Software Engineer | ⚡ Problem Solver</h3>
 
-<h3 align="center">💻 CSE Student | 🚀 Future Software Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer+in+Progress;DSA+Enthusiast;Web+Developer;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithaarif&label=Profile%20views&color=0e75b6&style=flat" />
@@ -12,93 +12,124 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🌱 Currently learning **DSA & Web Development**
-* 💻 Love building **projects & solving problems**
-* 🎯 Goal: Become a **Software Engineer**
-* 📫 Email: **mdaarifhussain4084@gmail.com**
+- 🎓 CSE Student passionate about tech  
+- 🌱 Currently mastering **DSA & Full Stack Development**  
+- 💡 Love solving problems & building real-world projects  
+- 🎯 Goal: Crack top tech companies & become a Software Engineer  
+- 📫 Email: **mdaarifhussain4084@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-aarif-hussain-7145ba37b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  
+  <a href="https://github.com/codewithaarif">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   <a href="https://www.instagram.com/md.aarif_786/">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- NEW ADDED -->
   <a href="https://www.facebook.com/your-profile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
   <a href="https://leetcode.com/your-username">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  
+
+  <a href="https://x.com/your-username">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,git,github,vscode" />
 </p>
 
 ---
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-#### 🔹 Project 1: Portfolio Website
-* 🌐 Personal portfolio to showcase skills and projects
-* 🛠️ Built using HTML, CSS, JavaScript
-* 🔗 https://github.com/codewithaarif/portfolio  
+### 🔹 Portfolio Website
+- 🌐 Personal portfolio to showcase skills  
+- 🛠️ HTML, CSS, JavaScript  
+- 🔗 https://github.com/codewithaarif/portfolio  
 
-#### 🔹 Project 2: Java Console Application
-* 💻 CLI-based app for solving basic problems
-* 🛠️ Built using Java
-* 🔗 https://github.com/codewithaarif/java-project  
+### 🔹 Java Console Application
+- 💻 CLI-based problem-solving app  
+- 🛠️ Java  
+- 🔗 https://github.com/codewithaarif/java-project  
 
-#### 🔹 Project 3: To-Do List App
-* 📝 Task management web app
-* 🛠️ HTML, CSS, JavaScript
-* 🔗 https://github.com/codewithaarif/todo-app  
+### 🔹 To-Do List App
+- 📝 Task management web app  
+- 🛠️ HTML, CSS, JavaScript  
+- 🔗 https://github.com/codewithaarif/todo-app  
 
 ---
 
-### 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithaarif&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithaarif&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaarif&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaarif&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codewithaarif&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🏆 Achievements
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithaarif&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaarif&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### ✨ Quote
+## 🧠 LeetCode Stats
 
 <p align="center">
-  💬 "Code. Learn. Build. Repeat. 🔁"
+  <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithaarif&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+<p align="center">
+  💬 I turn ☕ coffee into 💻 code  
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  🚀 "Code. Learn. Build. Repeat. 🔁"
 </p>
