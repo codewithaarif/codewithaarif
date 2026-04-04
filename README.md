@@ -33,11 +33,11 @@
     <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.facebook.com/your-profile">
+  <a href="https://www.facebook.com/share/1EFN3x1T3D/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://leetcode.com/your-username">
+  <a href="https://leetcode.com/Aarif6205">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 
