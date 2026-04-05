@@ -80,14 +80,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithaarif&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
